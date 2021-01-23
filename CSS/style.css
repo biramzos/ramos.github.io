@@ -1,0 +1,11 @@
+hr
+{
+  border-style:double;
+  border-color: blue;
+  border-width: 2px;
+  width: 80%;
+}
+body
+{
+  background-color:#01DFD7; 
+}
